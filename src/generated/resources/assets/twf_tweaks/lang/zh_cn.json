@@ -3,8 +3,17 @@
   "block.twf_tweaks.cash_register_opened": "被搜刮的收银台",
   "item.twf_tweaks.ashes_axe": "灰烬斧",
   "item.twf_tweaks.ashes_hoe": "灰烬锄",
+  "item.twf_tweaks.ashes_ingot": "灰烬锭",
   "item.twf_tweaks.ashes_pickaxe": "灰烬镐",
   "item.twf_tweaks.ashes_shovel": "灰烬锹",
   "item.twf_tweaks.ashes_sword": "灰烬剑",
+  "item.twf_tweaks.diamond_hunter_knife": "钻石猎人匕首",
+  "item.twf_tweaks.exo_sword": "Exo剑",
+  "item.twf_tweaks.flesh_axe": "血肉斧",
+  "item.twf_tweaks.flesh_pickaxe": "血肉镐",
+  "item.twf_tweaks.flesh_sword": "血肉剑",
+  "item.twf_tweaks.frozen_tilapia": "冻罗非鱼",
+  "item.twf_tweaks.hunter_knife": "猎人匕首",
+  "item.twf_tweaks.soul_ashes_sword": "魂烬剑",
   "itemGroup.twftweaks_tab": "冬境调整"
 }

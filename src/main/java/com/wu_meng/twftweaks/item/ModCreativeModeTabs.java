@@ -20,12 +20,19 @@ public class ModCreativeModeTabs {
                     .icon(() -> new ItemStack(ModItems.ASHES_INGOT.get()))
                     .title(Component.translatable("itemGroup.twftweaks_tab"))
                     .displayItems((parameters, output) -> {
-                        output.accept(ModItems.ASHES_SWORD);
-                        output.accept(ModItems.ASHES_SHOVEL);
+                        output.accept(ModItems.HUNTER_KNIFE);
+                        output.accept(ModItems.FROZEN_TILAPIA);
+                        output.accept(ModItems.DIAMOND_HUNTER_KNIFE);
                         output.accept(ModItems.ASHES_AXE);
-                        output.accept(ModItems.ASHES_PICKAXE);
+                        output.accept(ModItems.ASHES_SHOVEL);
                         output.accept(ModItems.ASHES_HOE);
-                        output.accept(ModItems.ASHES_INGOT);
+                        output.accept(ModItems.ASHES_PICKAXE);
+                        output.accept(ModItems.ASHES_SWORD);
+                        output.accept(ModItems.SOUL_ASHES_SWORD);
+                        output.accept(ModItems.EXO_SWORD);
+                        output.accept(ModItems.FLESH_SWORD);
+                        output.accept(ModItems.FLESH_PICKAXE);
+                        output.accept(ModItems.FLESH_AXE);
 
                         output.accept(ModBlocks.CASH_REGISTER_OPENED);
                         output.accept(ModBlocks.BEACON_RECEIVER_MODULE);

@@ -1,5 +1,6 @@
 package com.wu_meng.twftweaks;
 
+import com.wu_meng.twftweaks.block.ModBlockEntities;
 import com.wu_meng.twftweaks.block.ModBlocks;
 import com.wu_meng.twftweaks.item.ModCreativeModeTabs;
 import com.wu_meng.twftweaks.item.ModItems;
@@ -50,6 +51,8 @@ public class TWFTweaks {
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+        ModBlockEntities.register(modEventBus);
+        com.wu_meng.twftweaks.sound.ModSounds.register(modEventBus);
         ModCreativeModeTabs.register(modEventBus);
 
         // Register ourselves for server and other game events we are interested in.

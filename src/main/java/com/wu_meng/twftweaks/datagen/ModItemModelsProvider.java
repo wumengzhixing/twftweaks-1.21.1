@@ -17,14 +17,18 @@ public class ModItemModelsProvider extends ItemModelProvider {
 
         basicItem(ModItems.ASHES_INGOT.get());
 
-        basicItem(ModBlocks.CASH_REGISTER_OPENED.asItem());
-        basicItem(ModBlocks.BEACON_RECEIVER_MODULE.asItem());
-
-
-        handheldItem(ModItems.ASHES_SWORD.get());
-        handheldItem(ModItems.ASHES_SHOVEL.get());
+        handheldItem(ModItems.HUNTER_KNIFE.get());
+        handheldItem(ModItems.FROZEN_TILAPIA.get());
+        handheldItem(ModItems.DIAMOND_HUNTER_KNIFE.get());
         handheldItem(ModItems.ASHES_AXE.get());
-        handheldItem(ModItems.ASHES_PICKAXE.get());
+        handheldItem(ModItems.ASHES_SHOVEL.get());
         handheldItem(ModItems.ASHES_HOE.get());
+        handheldItem(ModItems.ASHES_PICKAXE.get());
+        handheldItem(ModItems.ASHES_SWORD.get());
+        handheldItem(ModItems.SOUL_ASHES_SWORD.get());
+        handheldItem(ModItems.EXO_SWORD.get());
+        handheldItem(ModItems.FLESH_SWORD.get());
+        handheldItem(ModItems.FLESH_PICKAXE.get());
+        handheldItem(ModItems.FLESH_AXE.get());
     }
 }

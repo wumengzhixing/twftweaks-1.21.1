@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": {"model":"twf_tweaks:block/cash_register_opened"},
+		"facing=east": {"model":"twf_tweaks:block/cash_register_opened", "y": 90, "uvlock": false},
+		"facing=south": {"model":"twf_tweaks:block/cash_register_opened", "y": 180, "uvlock": false},
+		"facing=west": {"model":"twf_tweaks:block/cash_register_opened", "y": 270, "uvlock": false}
+	}
+}

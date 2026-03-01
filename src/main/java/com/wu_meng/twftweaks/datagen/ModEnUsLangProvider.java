@@ -13,11 +13,19 @@ public class ModEnUsLangProvider extends LanguageProvider {
 
     @Override
     protected void addTranslations() {
-        add(ModItems.ASHES_SWORD.get(), "ASNES Sword");
-        add(ModItems.ASHES_SHOVEL.get(), "ASNES Shovel");
-        add(ModItems.ASHES_AXE.get(), "ASNES Axe");
-        add(ModItems.ASHES_PICKAXE.get(), "ASNES Pickaxe");
-        add(ModItems.ASHES_HOE.get(), "ASNES Hoe");
+        add(ModItems.HUNTER_KNIFE.get(), "Hunter Knife");
+        add(ModItems.FROZEN_TILAPIA.get(), "Frozen Tilapia");
+        add(ModItems.DIAMOND_HUNTER_KNIFE.get(), "Diamond Hunter Knife");
+        add(ModItems.ASHES_AXE.get(), "Ashes Axe");
+        add(ModItems.ASHES_SHOVEL.get(), "Ashes Shovel");
+        add(ModItems.ASHES_HOE.get(), "Ashes Hoe");
+        add(ModItems.ASHES_PICKAXE.get(), "Ashes Pickaxe");
+        add(ModItems.ASHES_SWORD.get(), "Ashes Sword");
+        add(ModItems.SOUL_ASHES_SWORD.get(), "Soul Ashes Sword");
+        add(ModItems.EXO_SWORD.get(), "Exo Sword");
+        add(ModItems.FLESH_SWORD.get(), "Flesh Sword");
+        add(ModItems.FLESH_PICKAXE.get(), "Flesh Pickaxe");
+        add(ModItems.FLESH_AXE.get(), "Flesh Axe");
         add(ModItems.ASHES_INGOT.get(), "ASNES Ingot");
 
         add(ModBlocks.CASH_REGISTER_OPENED.get(), "Cash Register Opened");

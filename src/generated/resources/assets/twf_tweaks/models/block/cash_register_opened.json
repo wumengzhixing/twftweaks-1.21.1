@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "twf_tweaks:block/cash_register_opened"
-  }
-}

@@ -1,6 +1,7 @@
 package com.wu_meng.twftweaks.block;
 
 import com.wu_meng.twftweaks.TWFTweaks;
+import com.wu_meng.twftweaks.block.custom.CashRegisterBlock;
 import com.wu_meng.twftweaks.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
@@ -18,14 +19,14 @@ public class ModBlocks {
     public static final DeferredRegister.Blocks BLOCKS =
             DeferredRegister.createBlocks(TWFTweaks.MODID);
 
-    public static final DeferredBlock<Block> CASH_REGISTER_OPENED  =
-            registerBlocks("cash_register_opened", () -> new ChestBlock(BlockBehaviour.Properties.of()
-                    .mapColor(MapColor.COLOR_GRAY)
-                    .sound(SoundType.METAL)
-                    .strength(3.0F, 6.0F)
-                    .lightLevel(state -> 1)
-                    .requiresCorrectToolForDrops(), () -> BlockEntityType.CHEST
-                    ));
+    public static final DeferredBlock<Block> CASH_REGISTER_OPENED =
+            registerBlocks("cash_register_opened", () -> new CashRegisterBlock(BlockBehaviour.Properties.of()
+                            .mapColor(MapColor.COLOR_GRAY)
+                            .sound(SoundType.METAL)
+                            .strength(3.0F, 6.0F)
+                            .lightLevel(state -> 1)
+                            .requiresCorrectToolForDrops()
+            ));
 
     public static final DeferredBlock<Block> BEACON_RECEIVER_MODULE  =
             registerBlocks("beacon_receiver_module", () -> new Block(BlockBehaviour.Properties.of()

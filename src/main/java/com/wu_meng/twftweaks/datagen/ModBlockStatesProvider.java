@@ -13,7 +13,6 @@ public class ModBlockStatesProvider extends BlockStateProvider {
 
     @Override
     protected void registerStatesAndModels() {
-        simpleBlockWithItem(ModBlocks.CASH_REGISTER_OPENED.get(), cubeAll(ModBlocks.CASH_REGISTER_OPENED.get()));
         simpleBlockWithItem(ModBlocks.BEACON_RECEIVER_MODULE.get(), cubeAll(ModBlocks.BEACON_RECEIVER_MODULE.get()));
 
     }

@@ -1,0 +1,8 @@
+{
+  "cash_register_open": {
+    "subtitle": "sounds.twf_tweaks.cash_register_open",
+    "sounds": [
+      "twf_tweaks:block/cash_register_open"
+    ]
+  }
+}

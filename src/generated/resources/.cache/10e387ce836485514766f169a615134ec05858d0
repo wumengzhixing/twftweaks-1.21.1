@@ -1,6 +1,15 @@
-// 1.21.1	2026-03-01T12:28:04.9725207	Item Models: twf_tweaks
+// 1.21.1	2026-03-01T17:09:04.9180288	Item Models: twf_tweaks
 5a170b0e01f7437b45a6b07e191f2d6131353267 assets/twf_tweaks/models/item/ashes_axe.json
 d7b2799608a269717f46103a95455b59c193b812 assets/twf_tweaks/models/item/ashes_hoe.json
+a8fd57da26c24dd59009f74045fa13669ab71c3c assets/twf_tweaks/models/item/ashes_ingot.json
 63dea034c35a2c5769c7d93f265d04e9e88015f4 assets/twf_tweaks/models/item/ashes_pickaxe.json
 6d9b4267758dc36fd1a1ea4081b3f632dcd95561 assets/twf_tweaks/models/item/ashes_shovel.json
 21297ea255bc36aa02149173f86031527b0deba2 assets/twf_tweaks/models/item/ashes_sword.json
+a5f4ffb5dcfca685698625f6a4400852b4e378b0 assets/twf_tweaks/models/item/diamond_hunter_knife.json
+8f462fab1faf8216255b9f2620fe427c5023f547 assets/twf_tweaks/models/item/exo_sword.json
+cdc6ea4f42ef37f866be64227943a1d010d3ebb8 assets/twf_tweaks/models/item/flesh_axe.json
+170675e4ad5c2a25e0a6e657505f2e48d5b85d0f assets/twf_tweaks/models/item/flesh_pickaxe.json
+d0d4c7995e1174b59a61f56d757a8fb5afb96788 assets/twf_tweaks/models/item/flesh_sword.json
+de1bbc922be9f87e7210ba03d70bb64dafd70f6c assets/twf_tweaks/models/item/frozen_tilapia.json
+5493c21ece20efa1a15de2a48ca5aabaa75acc0e assets/twf_tweaks/models/item/hunter_knife.json
+44d097587f855bb56ed4f606bc4391d333fbb2ba assets/twf_tweaks/models/item/soul_ashes_sword.json
