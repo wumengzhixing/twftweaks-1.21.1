@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "twf_tweaks:block/cash_register_opened"
+    }
+  }
+}

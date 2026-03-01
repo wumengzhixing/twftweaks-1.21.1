@@ -1,0 +1,7 @@
+// 1.21.1	2026-03-01T12:14:50.5205114	Block States: twf_tweaks
+2e66ae0407957937050084764f7cd1f2f6e8cf33 assets/twf_tweaks/blockstates/beacon_receiver_module.json
+31221f68f806cf0aa3ba2b42283242258b861cd0 assets/twf_tweaks/blockstates/cash_register_opened.json
+7251f66742d66698d05ea6b01c0b8f26b7b0cd93 assets/twf_tweaks/models/block/beacon_receiver_module.json
+6ea5423468fbb176c98a495440faee4b896f67d8 assets/twf_tweaks/models/block/cash_register_opened.json
+41b4f89cbaa57e3106bfc6a03c11c8408c9f0866 assets/twf_tweaks/models/item/beacon_receiver_module.json
+117d32c4eaa3c648d25b31d9cd88ef20fe6123ab assets/twf_tweaks/models/item/cash_register_opened.json

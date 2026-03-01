@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "twf_tweaks:beacon_receiver_module"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "twf_tweaks:blocks/beacon_receiver_module"
+}

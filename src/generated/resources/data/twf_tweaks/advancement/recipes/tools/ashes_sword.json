@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ashes_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "twf_tweaks:ashes_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "twf_tweaks:ashes_sword"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_ashes_ingot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "twf_tweaks:ashes_sword"
+    ]
+  }
+}
